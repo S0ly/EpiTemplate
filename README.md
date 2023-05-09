@@ -1,0 +1,1 @@
+# Epitech-Better-C-Repo-Template
