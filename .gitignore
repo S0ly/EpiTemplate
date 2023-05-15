@@ -1,0 +1,30 @@
+# ? IDE files :
+###########################################
+.vscode
+*.dSYM/
+.DS_Store
+###########################################
+
+# ! WARNING : can cause bugs with some IDEs and Extentions like LiveShare (you can remove / comment this section if you want)
+# ? ignore binary files :
+###########################################
+*
+!Makefile
+!LICENSE
+!/**/
+!*.*
+###########################################
+
+# ? ignore file system :
+###########################################
+*.ignore/
+*.ignore
+###########################################
+
+# ? project unique files :
+###########################################
+*.o
+*.a
+*.gcda
+*.gcno
+###########################################
