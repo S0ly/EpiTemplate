@@ -9,7 +9,7 @@
 ###########################################
 INC_FLAGS	=	-I./include
 CFLAGS = $(INC_FLAGS)
-EpiTools_PATH =	../EpiTools
+EpiTools_PATH =	../../EpiTools
 CODING_STYLE_CODE_LOCATION =	../epitech/coding-style-checker/coding-style.sh
 PROGRAM_NAME	=	ExempleProgramName
 
