@@ -9,8 +9,8 @@
 ###########################################
 INC_FLAGS	=	-I./include
 CFLAGS = $(INC_FLAGS)
-EpiTools_PATH =	../EpiTools
-CODING_STYLE_CODE_LOCATION =	../epitech/coding-style-checker/coding-style.sh
+EpiTools_PATH =	path-to/EpiTools
+CODING_STYLE_CODE_LOCATION =	path-to/coding-style-checker/coding-style.sh
 PROGRAM_NAME	=	ExempleProgramName
 
 ## ! WARNING: do not modify, this part of the Makefile
