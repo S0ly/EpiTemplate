@@ -5,7 +5,8 @@
 .DS_Store
 ###########################################
 
-# ! WARNING : can cause bugs with some IDEs and Extentions like LiveShare (you can remove / comment this section if you want)
+# ! WARNING : can cause bugs with some IDEs and Extentions
+# ! (like LiveShare you can remove / comment this section if you want)
 # ? ignore binary files :
 ###########################################
 *
