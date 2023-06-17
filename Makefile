@@ -142,7 +142,8 @@ tests_run:
 marvin_env:
 		@echo "executing marvin environment..."
 		@echo "-------------------------------------------"
-		docker run --rm -it -v "$(shell pwd)":/test/ -w /test epitechcontent/epitest-docker zsh
+		docker run --rm -it -v "$(shell pwd)":/test/ \
+		-w /test epitechcontent/epitest-docker zsh
 		@echo "-------------------------------------------"
 		@echo ""
 ############################################
